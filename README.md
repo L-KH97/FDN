@@ -1,1 +1,1 @@
-# FDN
+# Focal Denoising Network (FDN)
